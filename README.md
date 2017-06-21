@@ -27,5 +27,4 @@
     pron_model -> pronunciation
     pronunciation -> kaldi
   ;})
-  custom_mark
 </details>
