@@ -3,7 +3,6 @@
 ![Alt text](https://g.gravizo.com/source/custom_mark?https%3A%2F%2Fraw.githubusercontent.com%2Fbenfoley%2Fgraph_test%2Fmaster%2FREADME.md)
 
 <details> 
-<summary></summary>
 custom_mark
 digraph G {
   f1 [label="Format 1: Elan"]
